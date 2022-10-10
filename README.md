@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+![Lia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lia-arroyo&show_icons=true&theme=buefy)
+
 <!--
 **lia-arroyo/lia-arroyo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
