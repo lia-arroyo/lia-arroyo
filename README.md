@@ -1,3 +1,4 @@
+## Hello! My name is Lia ✨🌱👩🏻‍💻
 ![Lia's GitHub Stats](https://github-readme-stats.vercel.app/api?username=lia-arroyo&show_icons=true&theme=buefy)
 
 <!--
